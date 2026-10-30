@@ -89,7 +89,7 @@ credit_exotics_ftd_project/
 ├── docs/
 │   ├── project_note.tex              # LaTeX source for the Pythoneers Technical Project & Learning Note
 │   └── project_note.pdf              # Compiled PDF learning note
-├── figures/                          # High-resolution 300 DPI PNG figures
+├── figures/                          
 │   ├── fig1_cascading_hazard_path.png
 │   ├── fig2_contagion_matrix.png
 │   └── fig3_kth_default_tranches.png
